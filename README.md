@@ -15,9 +15,9 @@
 15. SMO: undefined
 16. SMP: undefined
 17. SMQ: undefined
-18. SMR: undefined
+18. SMR: Smart Maps Resources (reserved)
 19. SMS: undefined
-20. SMT: undefined
+20. SMT: Smart Maps Team (reserved)
 21. SMU: undefined
 22. SMV: undefined
 23. SMW: undefined
