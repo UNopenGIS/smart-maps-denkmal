@@ -1,5 +1,3 @@
-# Smart Maps Denkmal
-
 1. SMA: Smart Maps Assistant
 2. SMB: Smart Maps Bazaar
 3. SMC: Smart Maps Community (reserved)
