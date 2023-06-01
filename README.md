@@ -10,7 +10,7 @@
 10. SMJ: undefined
 11. SMK: undefined
 12. SML: undefined
-13. SMM: undefined
+13. SMM: Smart Maps Meetup
 14. SMN: undefined
 15. SMO: undefined
 16. SMP: undefined
@@ -27,3 +27,6 @@
 
 > - the most important part of open source is that people are allowed to do what they are good at 
 >   - Linus Torvalds (2015)
+
+## See Also
+- Smart Maps [Brand Guidelines](https://unopengis.github.io/smartmaps/about/brand)
