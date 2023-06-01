@@ -7,7 +7,7 @@
 7. SMG: Smart Maps Group
 8. SMH: undefined
 9. SMI: undefined
-10. SMJ: undefined
+10. SMJ: Smart Maps Journal (reserved)
 11. SMK: undefined
 12. SML: undefined
 13. SMM: Smart Maps Meetup
