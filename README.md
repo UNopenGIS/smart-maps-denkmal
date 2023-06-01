@@ -9,7 +9,7 @@
 9. SMI: undefined
 10. SMJ: Smart Maps Journal (reserved)
 11. SMK: undefined
-12. SML: undefined
+12. SML: Smart Maps Lead (currently hfu)
 13. SMM: Smart Maps Meetup
 14. SMN: undefined
 15. SMO: undefined
