@@ -1,3 +1,19 @@
+# Smart Maps Denkmal
+Feel free to update. We can use this document to record our ideas to expand our ideas.
+
+## Vision
+Keep web maps open for a better world. 
+
+## Mission
+Test new technologies for future geospatial operations. 
+
+## Observations
+- Smart Maps are eventually consistent.
+- Smart Maps Community is event-driven.
+- Smart Maps Community is mosaic.
+- Smart Maps Community is a community of practice. 
+
+## List of Abbreviations 
 1. SMA: Smart Maps Assistant
 2. SMB: Smart Maps Bazaar
 3. SMC: Smart Maps Community (reserved)
