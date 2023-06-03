@@ -29,7 +29,7 @@ Test new technologies for future geospatial operations.
 13. SMM: Smart Maps Meetup
 14. SMN: undefined
 15. SMO: undefined
-16. SMP: undefined
+16. SMP: Smart Maps Presentation (in UN Open GIS Monthly)
 17. SMQ: undefined
 18. SMR: Smart Maps Resources (reserved)
 19. SMS: undefined
